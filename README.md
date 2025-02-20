@@ -1,6 +1,3 @@
-Here's a production-grade README for your model:
-
----
 
 # Switch Multi-Query Attention Transformer
 
